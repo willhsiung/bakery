@@ -11,7 +11,8 @@
 (def prep-stock (ref {:egg 3
                       :flour 3
                       :sugar 2
-                      :butter 1
+                      :butter 2
+                      :cocoa 2
                       :milk 1}))
 
 (def _ingredients #{:egg :flour :milk :sugar :butter :cocoa})
